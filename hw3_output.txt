@@ -1,0 +1,28 @@
+a.  'total_book_price'
+    '253.45'
+
+b.  'title', 'times_purchased'
+    'Database Design','5'
+    'Cosmos','2'
+    'DNA and you','1'
+    'The Life of Cronkite','1'
+
+c.  'title', 'price'
+    'Database Design','195'
+
+d.  'name'
+    'Emily'
+    'Brendan'
+
+e.  'title', 'price'
+    'Cosmos','17'
+    'Database Design','195'
+
+f.  'person1', 'person2'
+    'Brendan','Spencer'
+    'Emily','Spencer'
+    'Spencer','Emily'
+
+g.  'title'
+    'DNA and you'
+
